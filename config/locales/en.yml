@@ -30,4 +30,6 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  app:
+    app_title: Marvel Movie Revies
+    app_description: A place to write reviews for the Marvel cinematic universe movies 
